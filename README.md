@@ -8,9 +8,10 @@ Tab-separated: `slug → field → url`
 
 ```
 rogaven	itch	https://nazavtra.itch.io/
+rogaven	name	Nazavtra
 ```
 
-Fields: `twitter`, `bsky`, `youtube`, `itch`, `github`, `steam`
+Fields: `twitter`, `bsky`, `youtube`, `itch`, `github`, `steam`, `name`
 
 ## Contributing
 
