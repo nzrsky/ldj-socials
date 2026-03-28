@@ -1,6 +1,6 @@
 # Ludum Dare author social links (manual overrides)
 # Format: slug<TAB>field<TAB>url
-# Fields: twitter, bsky, youtube, itch, github, steam
+# Fields: twitter, bsky, youtube, itch, github, steam, name
 commanderstitch	twitter	https://x.com/Commanderstitch
 sheepolution	twitter	https://x.com/Sheepolution
 jezzamon	twitter	https://x.com/jezzamonn
@@ -61,3 +61,4 @@ kenforest	steam	https://store.steampowered.com/search/?developer=KenForest
 danman9914	twitter	https://x.com/DMullinsGames
 danman9914	itch	https://dmullinsgames.itch.io/
 danman9914	steam	https://store.steampowered.com/search/?developer=Daniel+Mullins+Games
+danman9914	name	Daniel Mullins
